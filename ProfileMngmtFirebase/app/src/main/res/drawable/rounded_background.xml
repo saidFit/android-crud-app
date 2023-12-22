@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Define your shape with a solid color and corners -->
+    <item>
+        <shape>
+            <solid android:color="@color/white" />
+            <corners android:radius="12dp" />
+            <stroke android:width="2dp" android:color="@color/gray_300"/>
+        </shape>
+    </item>
+
+    <!-- Apply elevation as a shadow -->
+
+</layer-list>
